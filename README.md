@@ -1,16 +1,13 @@
-# facebook_app
+# Facebook_App_Flutter
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Um aplicativo clone da página inicial do Facebook, desenvolvido inteiramente em Flutter como parte de um curso, oferece uma interface moderna e responsiva para dispositivos móveis e desktops. O projeto inclui:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Interface de Usuário: Construção da UI com Widgets Flutter, recriando componentes como barra de navegação, feed de postagens e stories.
+Responsividade: Uso de widgets como LayoutBuilder e MediaQuery para adaptar o design a diferentes tamanhos de tela, garantindo excelente experiência em mobile e desktop.
+Design Atraente: Personalização visual com o sistema de temas do Flutter, permitindo cores, espaçamentos e tipografias semelhantes ao Facebook.
+Aprendizado Progressivo: O curso orienta desde a configuração inicial do projeto até o desenvolvimento e teste, ideal para quem quer dominar Flutter.
